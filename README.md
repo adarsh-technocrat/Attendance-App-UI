@@ -1,16 +1,23 @@
-# attendence
+# Attendance App UI
 
-A new Flutter project.
+Attendance App UI this is a concetp app have a look.
 
-## Getting Started
+## Dependencies 
+ -  percent_indicator: ^2.1.7+4
+ -  fl_chart: ^0.12.0
+ 
+## Run the project
+- With Flutter installed, clone project and run `flutter run --release` in that directory,
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align ="middle">
+ <img src="https://user-images.githubusercontent.com/47661086/95672201-73d49180-0bbc-11eb-9a94-7c72d0e717a4.jpg" width="200" height="400" />
+  <img src ="https://user-images.githubusercontent.com/47661086/95672267-112fc580-0bbd-11eb-8b78-26eda8ad98e9.jpg" width="200" height="400"/>
+<img src = "https://user-images.githubusercontent.com/47661086/95672249-f2313380-0bbc-11eb-87d7-3de61280313c.jpg" width="200" height="400" /> 
+<img src ="https://user-images.githubusercontent.com/47661086/95672283-2ad10d00-0bbd-11eb-8805-73e6f5c29117.jpg" width="200" height="400"/> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+ 
+## Feedback is welcome! Contact me for any info.
